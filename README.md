@@ -1,4 +1,4 @@
-<span style = "font-size:32 px">
+<span style = "font-size:26px">
 Project 2: Alternative Language Project <br>
 Alternative Language Project
 </span>
@@ -130,3 +130,4 @@ Here are some general steps you will want to take. This project is all about res
 10. Next, you create the 3 required Junit tests.
 11. Now, you will work on the report. Answer the questions.
 
+![Rubric](files/Proj2Rubric.png)
